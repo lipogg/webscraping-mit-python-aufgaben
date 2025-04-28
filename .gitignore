@@ -1,0 +1,8 @@
+# Python-generated files
+__pycache__/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environments
+.venv
